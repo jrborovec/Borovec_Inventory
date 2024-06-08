@@ -1,0 +1,14 @@
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.AssemblyInfoInputs.cache
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.AssemblyInfo.cs
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\bin\Debug\net8.0\Borovec_Inventory.exe
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\bin\Debug\net8.0\Borovec_Inventory.deps.json
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\bin\Debug\net8.0\Borovec_Inventory.runtimeconfig.json
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\bin\Debug\net8.0\Borovec_Inventory.dll
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\bin\Debug\net8.0\Borovec_Inventory.pdb
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.dll
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\refint\Borovec_Inventory.dll
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.pdb
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\Borovec_Inventory.genruntimeconfig.cache
+C:\Users\Blue1\source\repos\Borovec_Inventory\Borovec_Inventory\obj\Debug\net8.0\ref\Borovec_Inventory.dll
